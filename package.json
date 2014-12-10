@@ -13,4 +13,8 @@
   { "type": "git"
   , "url": "https://github.com/tomekwi/….git"
   }
+
+, "dependencies":
+  { "map-obj": "~1.0.0"
+  }
 }
