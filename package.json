@@ -1,0 +1,16 @@
+{ "name": "map-object-recursive"
+, "version": "0.0.0"
+, "description": "Map an object's keys and values into a new object. Deeply (tree structure doesn't change)."
+, "license": "MIT"
+
+, "contributors":
+  [ { "name": "Tomek Wiszniewski"
+    , "email": "<t.wiszniewski@gmail.com>"
+    }
+  ]
+
+, "repository":
+  { "type": "git"
+  , "url": "https://github.com/tomekwi/….git"
+  }
+}
