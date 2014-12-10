@@ -1,4 +1,5 @@
-{ "node": true
+{ "strict": true
+, "node": true
 , "laxbreak": true
 , "laxcomma": true
 , "undef": true
