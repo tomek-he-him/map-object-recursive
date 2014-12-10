@@ -26,7 +26,7 @@ var newObject = mapObjectRecursive
     ( { foo: 'bar'
       , numbers:
         { one: 1
-        , two: 2
+        , four: [4]
         }
       }
     , function (key, value, object) {
@@ -36,7 +36,7 @@ var newObject = mapObjectRecursive
 // » { foo: 'barbar'
 //   , numbers:
 //     { one: 2
-//     , two: 4
+//     , four: '44'
 //     }
 //   }
 ```
