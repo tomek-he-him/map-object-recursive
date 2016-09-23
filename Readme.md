@@ -1,3 +1,7 @@
+**Attention please!** This project is no longer maintained. I’ve heard good things about [map-object](http://npm.im/map-object) though – why not try that instead?
+
+***
+
 map-object-recursive
 ====================
 
